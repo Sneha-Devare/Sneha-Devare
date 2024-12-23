@@ -15,7 +15,7 @@
 - Concepts: Statistics, Data Analytics, Machine Learning
 
 📫 **Connect with Me**
-- [LinkedIn]([www.linkedin.com/in/sneha-devare-9124112b3](https://www.linkedin.com/in/sneha-devare-9124112b3/))
+- [LinkedIn](https://www.linkedin.com/in/sneha-devare-9124112b3/)
 - Email: snehadevare158@gmail.com
 
 

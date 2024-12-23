@@ -6,8 +6,8 @@
 - 🌱 Currently learning Python, SQL, PowerBI and Machine Learning
 
 💼 **Projects**
-- [Diabetes Prediction](link-to-project)
-- [Heart Disease Prediction](link-to-project)
+- [Diabetes Prediction]()
+- [Heart Disease Prediction]()
 
 🛠️ **Skills**
 - Programming: Python, SQL

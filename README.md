@@ -6,7 +6,7 @@
 - 🌱 Currently learning Python, SQL, PowerBI and Machine Learning
 
 💼 **Projects**
-- [Diabetes Prediction]()
+- [Diabetes Prediction](https://github.com/Sneha-Devare/Heart_Disease_prediction)
 - [Heart Disease Prediction]()
 
 🛠️ **Skills**

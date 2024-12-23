@@ -7,7 +7,7 @@
 
 💼 **Projects**
 - [Diabetes Prediction](https://github.com/Sneha-Devare/Heart_Disease_prediction)
-- [Heart Disease Prediction]()
+- [Heart Disease Prediction](https://github.com/Sneha-Devare/Diabetes-Prediction)
 
 🛠️ **Skills**
 - Programming: Python, SQL

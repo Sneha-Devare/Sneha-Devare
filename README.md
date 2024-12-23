@@ -1,13 +1,23 @@
-- 👋 Hi, I’m @Sneha-Devare
-- 👀 I’m interested in Data Analysing ...
-- 🌱 I’m currently learning Data Analytics and science...
-- 💞️ I’m looking to collaborate on linkedin...
-- 📫 How to reach me by sending msg on linkedin...
-- 💻 Aspiring Data Analyst | Data Science Enthusiast...
-- 📊 Passionate about turning data into actionable insights using tools like Python, SQL, Tableau, and MS Excel...
-- 🧠 Currently exploring machine learning, working on projects like Credit Card Fraud Detection and Sales Analysis...
-- 📚 Always eager to learn and grow in the field of data analytics and business intelligence...
-- 🚀 Let's connect and collaborate on data-driven projects!...
+# Hi there! 👋 I'm Sneha
+
+🌟 **About Me**
+- 🎓 Computer Science Graduate
+- 📊 Aspiring Data Analyst
+- 🌱 Currently learning Python, SQL, PowerBI and Machine Learning
+
+💼 **Projects**
+- [Diabetes Prediction](link-to-project)
+- [Heart Disease Prediction](link-to-project)
+
+🛠️ **Skills**
+- Programming: Python, SQL
+- Tools: Tableau, MS Excel, PowerBI
+- Concepts: Statistics, Data Analytics, Machine Learning
+
+📫 **Connect with Me**
+- [LinkedIn](your-linkedin-link)
+- Email: snehadevare158@gmail.com
+
 
 
 <!---

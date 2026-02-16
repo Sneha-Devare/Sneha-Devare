@@ -1,42 +1,24 @@
-# Hi there! 👋 I'm Sneha Devare
+# **Hi there! 👋 I'm Sneha Devare**
 
-**Data Analyst | Python | SQL | Power BI**
+**Aspiring Data Scientist | Machine Learning | Python | SQL | Power BI | Tableau | MS-Excel**
 
 Computer Science graduate with a strong foundation in data analytics, statistics, and machine learning. Skilled in Python, SQL, and business intelligence tools for data cleaning, analysis, and dashboard creation. Actively seeking an entry-level Data Analyst role where I can contribute to data-driven decision making and continue building real-world experience.
 
-## Professional Summary
+## **Professional Summary**
 - Strong understanding of data analysis workflow: cleaning, exploration, visualization, and reporting  
 - Hands-on experience with Python, SQL, Excel, and Power BI  
 - Able to work with structured datasets and extract meaningful insights  
 - Good knowledge of statistics and machine learning basics  
 - Quick learner with strong problem-solving and analytical thinking  
 
-## Technical Skills
+## **Technical Skills**
+**Programming:** Python, SQL  
+**Data Analysis:** Pandas, NumPy, Data Cleaning, Exploratory Data Analysis  
+**Visualization & BI:** Power BI, Tableau, Matplotlib, Microsoft Excel  
+**Tools & Environment:** Jupyter Notebook, VS Code, Git, GitHub  
+**Core Knowledge:** Statistics, Data Visualization, Machine Learning Basics
 
-**Languages**  
-Python  
-SQL  
-
-**Data Analysis & Visualization**  
-Power BI  
-Tableau  
-Microsoft Excel  
-Jupyter Notebook  
-
-**Libraries & Tools**  
-Pandas  
-NumPy  
-Matplotlib  
-Scikit-learn  
-
-**Concepts**  
-Data Cleaning and Preprocessing  
-Exploratory Data Analysis  
-Data Visualization  
-Statistics  
-Machine Learning Fundamentals  
-
-## What I Can Do
+## **What I Can Do**
 - Clean and prepare raw datasets for analysis  
 - Write SQL queries for data extraction and reporting  
 - Perform exploratory data analysis using Python  
@@ -44,12 +26,13 @@ Machine Learning Fundamentals
 - Generate insights to support business decisions  
 - Work with CSV, Excel, and database datasets  
 
-## Career Objective
+## **Career Objective**
 Seeking an entry-level Data Analyst opportunity where I can apply my technical skills, learn from experienced teams, and contribute to real business problems using data.
 
-## Availability
+## **Availability**
 Open to full-time entry-level roles, internships, or trainee positions in Data Analytics or Data Science.
 
-## Contact
+## **Connect**
 LinkedIn: https://www.linkedin.com/in/sneha-devare-9124112b3/  
 Email: snehadevare158@gmail.com  
+Medium: https://medium.com/@snehadevare158

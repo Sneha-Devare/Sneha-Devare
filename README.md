@@ -33,7 +33,7 @@ Seeking an entry-level Data Analyst opportunity where I can apply my technical s
 Open to full-time entry-level roles, internships, or trainee positions in Data Analytics or Data Science.
 
 ### **Connect**
-LinkedIn: https://www.linkedin.com/in/sneha-devare-9124112b3/  
-Email: snehadevare158@gmail.com  
-Medium: https://medium.com/@snehadevare158  
-Portfolio: https://sneha-devare.github.io/
+**LinkedIn:** https://www.linkedin.com/in/sneha-devare-9124112b3/  
+**Email:** snehadevare158@gmail.com  
+**Medium:** https://medium.com/@snehadevare158  
+**Portfolio:** https://sneha-devare.github.io/

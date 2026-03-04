@@ -36,4 +36,4 @@ Open to full-time entry-level roles, internships, or trainee positions in Data A
 LinkedIn: https://www.linkedin.com/in/sneha-devare-9124112b3/  
 Email: snehadevare158@gmail.com  
 Medium: https://medium.com/@snehadevare158
-Portfolio: https://sneha-devare.github.io/
+Portfolio: https://sneha-devare.github.io/  
